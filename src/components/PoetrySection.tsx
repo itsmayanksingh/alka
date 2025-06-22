@@ -90,7 +90,7 @@ const PoetrySection = () => {
         <div className="text-center mt-12">
           <button className="px-8 py-3 bg-gradient-to-r from-pink-500 to-purple-600 text-white rounded-full font-medium hover:shadow-lg hover:scale-105 transition-all duration-300">
             <BookOpen className="inline-block mr-2" />
-            <a href="youtube.com/@poetic_nurse34?si=7qI8WDXVQ0KuqWvc" className="text-white">  View All Poetry</a>
+            <a href="#" className="text-white">  View All Poetry</a>
    
           </button>
         </div>
